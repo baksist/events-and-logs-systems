@@ -32,6 +32,8 @@
 
 ## Установка и настройка Yara
 
+### Настройка агента
+
 Загрузка и распаковка дистрибутива:
 
 ![](./screenshots/vmconnect_UwvIipoUNf.png)
@@ -57,6 +59,8 @@
 ![](./screenshots/vmconnect_z0cpgX3Lf8.png)
 
 ![](./screenshots/vmconnect_JqYOFah7j9.png)
+
+### Настройка сервера
 
 Настройка правил Wazuh для отслеживания изменений и срабатывания правил YARA:
 
