@@ -8,3 +8,4 @@
 - [ПРЗ №2. Анализ логов](./prz-2/log-analysis.ipynb)
 - [ПРЗ №3. Wazuh](./prz-3/)
 - [ПРЗ №4. Network Threat Hunting](./prz-4/)
+- [ПРЗ №5. Threat Hunting](./prz-5/)
